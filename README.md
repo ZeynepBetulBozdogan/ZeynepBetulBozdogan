@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep Betül Bozdoğan</h1>
 <h3 align="center">A computer engineer who passionate about learning.</h3>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **zeybetul@gmail.com**
 
